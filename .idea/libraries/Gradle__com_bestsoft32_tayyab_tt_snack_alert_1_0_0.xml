@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bestsoft32.tayyab:tt-snack-alert-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tt-snack-alert-1.0.0.aar/35200081aaa3e23650df423bb7251376/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tt-snack-alert-1.0.0.aar/35200081aaa3e23650df423bb7251376/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bestsoft32.tayyab/tt-snack-alert/1.0.0/b76a054a39c298a42f95b1346528c6dfbf6dc7dc/tt-snack-alert-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

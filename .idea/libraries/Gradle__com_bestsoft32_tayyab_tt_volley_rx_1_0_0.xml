@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bestsoft32.tayyab:tt-volley-rx-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tt-volley-rx-1.0.0.aar/4ec81b62999916efb553a26e4c296b67/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tt-volley-rx-1.0.0.aar/4ec81b62999916efb553a26e4c296b67/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bestsoft32.tayyab/tt-volley-rx/1.0.0/a96d77ac20bdf3be7dedbaf1ee66cb5c2bc68696/tt-volley-rx-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
