@@ -7,7 +7,6 @@ Google-Map-Cluster is MVC Design Sample which load data from api and show marker
 - MVP Design Architecture + RX sample project was not coded due lack of time.
 - Volley for api request.
 - Data Fetch from Myscrap Api.
-- Screen Orientation (Screen rotate) was not handled.
 
 ## Screenshots
 
