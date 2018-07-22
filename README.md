@@ -14,7 +14,7 @@ Google-Map-Cluster is MVC Design Sample which load data from api and show marker
 **Please click the image below to enlarge.**
 
 
-<img src="https://github.com/tayyabtariq50/google-map-cluster/blob/master/Screenshot.png" height="420" width="240" hspace="20">
+<img src="https://github.com/tayyabtariq50/google-map-cluster/blob/master/screenshot.png" height="420" width="240" hspace="20">
 
 
 ## Contributing
